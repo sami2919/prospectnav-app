@@ -1,0 +1,13 @@
+project_id = "prospectnav"
+
+[api]
+port = 54321
+
+[db]
+port = 54322
+
+[studio]
+port = 54323
+
+[functions.generate-section]
+verify_jwt = false
