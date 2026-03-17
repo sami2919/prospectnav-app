@@ -39,3 +39,8 @@ supabase/.temp/
 .claude-flow/
 .swarm/
 .mcp.json
+.claude/
+.claude-flow/
+.swarm/
+.mcp.json
+CLAUDE.md
